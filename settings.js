@@ -26,7 +26,7 @@ global.owner = ['+94788230710'] //Owner number in aive msg
 global.premium = ['++94788230710'] //Owner Number info
 global.ownernomer = '+94788230710' //Owner Number <<<
 
-global.ownername = '⫷⃞😻Dᵃ͢ʳᵏ Kɪɴɢ |Jᵃⁿ͟ᵘ🎀♥️:✬᭄' //Owner Name
+global.ownername = '⫷⃞😻Dᵃ͢ʳᵏ Kɪɴ̂ɢ |Jᵃⁿ͟ᵘ🎀♥️:✬᭄' //Owner Name
 global.botname = ' Jᵃⁿᵘ ʙᴏᴛ @²⁰²²🐱♥️' //Bot Name
 
 global.button = '🎀Facebook♥️' //Costomize A Button Name In Alive Message
